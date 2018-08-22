@@ -1757,7 +1757,7 @@ body {
   background-image: url("../../../assets/images/wanna-share-the-futurustic-success-wuth-us-1-1607x1072.jpg");
 }
 .cid-qTkA127IK8 I {
-  color: #f7ce4a;
+  color: #f7db4a;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
@@ -2214,6 +2214,13 @@ body {
 }
 .cid-r1qVl7aMWr .mbr-section-subtitle {
   color: #767676;
+  text-align: center;
+}
+.cid-r1qVl7aMWr .mbr-section-subtitle B {
+  color: #8729cc;
+}
+.cid-r1qVl7aMWr .mbr-section-subtitle A {
+  color: #5014cc;
 }
 .cid-r1r1FxzUJn {
   padding-top: 90px;
@@ -2229,6 +2236,13 @@ body {
   .cid-r1r1FxzUJn .mbr-figure {
     padding-top: 3rem;
   }
+}
+.cid-r1r1FxzUJn .mbr-section-title B {
+  color: #8729cc;
+}
+.cid-r1r1FxzUJn .mbr-text,
+.cid-r1r1FxzUJn .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-r1o2PRIUU6 .navbar {
   padding: .5rem 0;
