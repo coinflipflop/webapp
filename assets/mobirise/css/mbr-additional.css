@@ -2679,6 +2679,20 @@ body {
   padding: 0rem 2.5rem 3rem 2.5rem;
   background-color: #ffffff;
 }
+.cid-r1ryhsG2Fs {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #e7d2f7;
+  background: linear-gradient(0deg, #e7d2f7, #ffffff);
+}
+.cid-r1ryhsG2Fs .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-r1ryhsG2Fs .video-block {
+    width: 100% !important;
+  }
+}
 .cid-r1qMOPwtmV {
   padding-top: 60px;
   padding-bottom: 60px;
